@@ -1,0 +1,29 @@
+{
+  "family": "emo",
+  "name": "frame",
+  "version": "1.0.1",
+  "description": "动画帧基类。",
+  "homepage": "https://github.com/emojs2013/frame",
+  "author": "Emojs <emojs2013@gmail.com>",
+  "maintainers": [
+    "Emojs <emojs2013@gmail.com>",
+    "Wayne <weiweo900504@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emojs2013/frame.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": ["frame"],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["frame.js"],
+    "alias": {
+      "class": "arale/class/1.1.0/class"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
